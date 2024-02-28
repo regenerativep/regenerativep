@@ -1,7 +1,3 @@
-Hello. I mainly program in Zig nowadays.
+I love learning new languages; I've programming in Rust, C#, C++, C, JS, Python, Java, Kotlin, and lately I'm excited about Zig.
 
-I've also used Rust, C#, C++, C, JS, Python, Java, Kotlin.
-
----
-
-Praise be to the gods!
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regenerativep&layout=compact&hide=javascript&theme=dracula)
