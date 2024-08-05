@@ -17,4 +17,4 @@ Lately, I am having fun writing in C, though I may not have much of that on here
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regenerativep&layout=compact&hide=javascript&theme=dracula)
 
-[Blog](https://regenerativep.github.io/regenerativep/)
+[Blog](https://regenerativep.github.io)
